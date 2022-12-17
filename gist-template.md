@@ -18,7 +18,6 @@ This regex will allow us to find any hex code that contains a # sign, or has 6 o
 - [Quantifiers](#quantifiers)
 - [OR Operator](#or-operator)
 - [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
 
 ## Regex Components
 
